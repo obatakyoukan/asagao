@@ -1,4 +1,4 @@
-#Ruby on Rails 練習
+# Ruby on Rails 練習
 
 実装機能
 - sqlite3とのデータベースとの結合
