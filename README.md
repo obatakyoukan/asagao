@@ -1,24 +1,9 @@
-# README
+#Ruby on Rails 練習
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+実装機能
+sqlite3とのデータベースとの結合
+log in 機能の追加
 
-Things you may want to cover:
+今後の実装予定
+password 変更機能
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
